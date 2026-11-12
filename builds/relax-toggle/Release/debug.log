@@ -1,0 +1,8 @@
+[23:14:08.276] helper startup: connection diagnostics enabled
+[23:14:08.279] reader initialized: fallback=0 layout_version=2026.1005.0
+[23:14:08.508] connection: stage=waiting_for_osu_process pid=0
+[23:14:13.503] connection: stage=waiting_for_osu_process pid=0
+[23:14:18.504] connection: stage=waiting_for_osu_process pid=0
+[23:14:23.505] connection: stage=waiting_for_osu_process pid=0
+[23:14:28.507] connection: stage=waiting_for_osu_process pid=0
+[23:14:33.507] connection: stage=waiting_for_osu_process pid=0
